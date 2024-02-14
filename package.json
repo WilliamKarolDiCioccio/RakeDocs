@@ -1,0 +1,25 @@
+{
+  "name": "rakedocs",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "npx sass src/styles && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.5.2",
+    "@astrojs/starlight": "^0.18.0",
+    "@astrojs/starlight-tailwind": "^2.0.1",
+    "@astrojs/tailwind": "^5.1.0",
+    "astro": "^4.3.4",
+    "sharp": "^0.32.5",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "sass": "^1.70.0"
+  }
+}
