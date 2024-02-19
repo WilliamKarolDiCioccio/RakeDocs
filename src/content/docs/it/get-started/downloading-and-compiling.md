@@ -7,6 +7,9 @@ description: Guida al download e all'installazione di Rake Engine.
 
 - Visual Studio Code
 - Visual Studio 2022
+- Git Cmd Line
+
+Puoi installare tutti questi premendo su start e cercando `DevHome`. Una volta aperto l'hub sul menu laterale clicca su `Machine Configuration -> Install Application` e cerca i programmi richiesti.
 
 ## Scarica il codice
 
